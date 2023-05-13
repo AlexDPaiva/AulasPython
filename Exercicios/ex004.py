@@ -1,0 +1,1 @@
+#Dissecando um avariavel
